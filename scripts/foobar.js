@@ -1,3 +1,3 @@
 function hw() {
-  console.log('Hello Console!');
+  alert('Hello Jakey Boy!');
 }
