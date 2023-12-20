@@ -1,3 +1,3 @@
 function hw() {
-  alert('Hello Jakey Boy!');
+  alert('Hello Jakey Boy and Trevor T!');
 }
